@@ -1,6 +1,6 @@
 import openai
 import pinecone
-import numpy as np
+# import numpy as np
 import os
 import uuid
 from dotenv import load_dotenv
