@@ -1,0 +1,98 @@
+Section: Thông tin shop
+Category: Không áp dụng
+Tên Shop: UrbanStyle
+Địa chỉ: 456 Đường Lê Lợi, Quận 3, TP.HCM
+Số điện thoại: 0901 234 567
+Email: support@urbanstyle.vn
+
+Section: Sản phẩm
+Category: Thời trang nam
+Sản phẩm 1: Áo sơ mi nam dài tay
+Mã sản phẩm: ASM001
+Giá: 320,000 VNĐ
+Mô tả: Áo sơ mi nam phong cách Hàn Quốc, chất liệu cotton cao cấp, phù hợp đi làm, đi chơi.
+Kích thước: M, L, XL
+Màu sắc: Trắng, Xanh biển, Đen
+Số lượng còn: 40
+
+Section: Sản phẩm
+Category: Thời trang nữ
+Sản phẩm 2: Váy xòe nữ chấm bi
+Mã sản phẩm: VXN002
+Giá: 450,000 VNĐ
+Mô tả: Váy xòe nữ kiểu dáng vintage, chất vải voan nhẹ, chấm bi nổi bật.
+Kích thước: S, M, L
+Màu sắc: Đỏ, Xanh navy
+Số lượng còn: 25
+
+Section: Sản phẩm
+Category: Phụ kiện
+Sản phẩm 3: Balo laptop chống sốc
+Mã sản phẩm: BLP003
+Giá: 650,000 VNĐ
+Mô tả: Balo chuyên dụng cho laptop 15 inch, chất liệu vải Oxford chống nước, ngăn chống sốc riêng.
+Màu sắc: Đen, Xám
+Số lượng còn: 18
+
+Section: Sản phẩm
+Category: Thời trang nữ
+Sản phẩm 4: Giày cao gót nữ 7cm
+Mã sản phẩm: GCG004
+Giá: 720,000 VNĐ
+Mô tả: Giày cao gót sang trọng, thiết kế dây đan chéo, phù hợp đi tiệc, công sở.
+Kích thước: 36, 37, 38, 39
+Màu sắc: Nude, Đen
+Số lượng còn: 10
+
+Section: Sản phẩm
+Category: Phụ kiện
+Sản phẩm 5: Đồng hồ nam dây da
+Mã sản phẩm: DHN005
+Giá: 1,200,000 VNĐ
+Mô tả: Đồng hồ kim cổ điển, mặt kính sapphire, dây da thật.
+Màu sắc: Đen, Nâu
+Số lượng còn: 12
+
+Section: Sản phẩm
+Category: Phụ kiện
+Sản phẩm 6: Kính râm unisex phân cực
+Mã sản phẩm: KRP006
+Giá: 380,000 VNĐ
+Mô tả: Kính râm kiểu dáng hiện đại, chống tia UV400, dùng được cho cả nam và nữ.
+Màu sắc: Đen, Xám khói
+Số lượng còn: 35
+
+Section: Sản phẩm
+Category: Thời trang nữ
+Sản phẩm 7: Áo khoác nữ dáng dài
+Mã sản phẩm: AKN007
+Giá: 950,000 VNĐ
+Mô tả: Áo khoác nữ chất liệu dạ, form dài thời trang, có đai eo.
+Kích thước: M, L
+Màu sắc: Be, Đen
+Số lượng còn: 8
+
+Section: Thông tin vận chuyển
+Category: Không áp dụng
+Thông tin vận chuyển:
+- Miễn phí vận chuyển toàn quốc cho đơn từ 700,000 VNĐ.
+- Giao nhanh 2H tại TP.HCM cho đơn nội thành (áp dụng từ 9h - 17h).
+- Giao tiêu chuẩn toàn quốc: 3-5 ngày làm việc.
+- Đơn vị vận chuyển: Giao Hàng Nhanh, J&T Express.
+
+Section: Chính sách đổi trả
+Category: Không áp dụng
+Chính sách đổi trả:
+- Đổi hàng trong vòng 7 ngày nếu sản phẩm lỗi do nhà sản xuất.
+- Sản phẩm phải còn nguyên tem, mác và chưa qua sử dụng.
+- Không áp dụng đổi với sản phẩm giảm giá trên 50%.
+
+Section: Điều khoản sử dụng
+Category: Không áp dụng
+Điều khoản sử dụng:
+- Mọi nội dung trên website đều thuộc quyền sở hữu của UrbanStyle.
+- Không được sao chép, sử dụng lại thông tin sản phẩm khi chưa có sự đồng ý bằng văn bản.
+
+Section: Lời cảm ơn
+Category: Không áp dụng
+Cảm ơn bạn đã mua sắm tại UrbanStyle!
